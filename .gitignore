@@ -32,3 +32,11 @@ Thumbs.db
 # Logs
 logs/
 *.log
+
+# Django static files (collected)
+/staticfiles/
+/static_root/
+
+# Media files
+/media/
+/media_root/
